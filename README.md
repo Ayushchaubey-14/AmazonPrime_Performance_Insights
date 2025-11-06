@@ -1,5 +1,6 @@
 # AmazonPrime_Performance_Insights
 Amazon Prime Video Dashboard (Power BI)
+
 1. Project Title
 Amazon Prime Video Content Analysis Dashboard
 
@@ -45,7 +46,4 @@ Explore the interactive filters and visuals.
 This dashboard offers a data-driven view of Amazon Prime’s entertainment landscape — useful for analysts, content strategists, and enthusiasts to identify content trends and streaming insights effectively.
 
 9. Screenshot/Demos
-
-Movies vs TV Shows: Donut chart visualizing the type distribution.
-
-Director Activity Over Time: Visual representation of director participation trends.
+https://github.com/Ayushchaubey-14/AmazonPrime_Performance_Insights/blob/main/Amazon%20Prime%20Dasboard.png.png
