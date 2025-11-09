@@ -1,49 +1,47 @@
 # AmazonPrime_Performance_Insights
-Amazon Prime Video Dashboard (Power BI)
 
-1. Project Title
-Amazon Prime Video Content Analysis Dashboard
+1. Project Overview
+The Amazon Prime Video Content Analysis Dashboard is a Power BI project designed to provide an in-depth visual analysis of Amazon Prime Video’s content library.
+It explores patterns and trends across titles, genres, ratings, directors, and release years to uncover meaningful insights into the platform’s entertainment catalog.
 
-2.Description / Purpose
-This Power BI dashboard provides a comprehensive visual analysis of Amazon Prime Video’s content library.
-It helps understand trends, distributions, and insights related to titles, genres, ratings, directors, and release patterns over time.
-The main goal is to explore:
-How Amazon Prime’s movie and TV show catalog has evolved.
-What types of genres dominate the platform.
-How content ratings and director activity vary across years.
+2. Objectives
+Analyze how Amazon Prime’s movie and TV show catalog has evolved over the years.
+Identify dominant genres and popular content categories.
+Understand rating distribution and director activity trends.
 
 3. Key Insights
-📈 Total Titles: 9,655
-🎭 Total Genres: 519
-🎬 Total Directors: 5,771
-🗓️ Data Range: 1920 – 2021
-🎞️ Movies dominate the catalog (≈ 81%) compared to TV shows (≈ 19%).
-📺 Drama is the most popular genre followed by Comedy and Suspense.
-⏳ Steady rise in content after 2000 with a massive spike post-2010.
+Total Titles: 9,655
+Total Genres: 519
+Total Directors: 5,771
+Data Range: 1920 – 2021
+Movies make up approximately 81% of the catalog, while TV shows account for about 19%.
+Drama is the most prevalent genre, followed by Comedy and Suspense.
+Content production shows a steady rise after 2000, with a significant spike post-2010.
 
-4. Features & Highlights
-Interactive Visuals: Filter and explore trends dynamically.
-Genre Insights: Bar charts to compare top-performing genres.
-Release Trend Analysis: Line chart showing yearly content growth.
-Rating Breakdown: Horizontal bar chart representing the number of shows by rating category.
+4. Features and Highlights
+Interactive Visuals: Filter and explore data dynamically for deeper insights.
+Genre Insights: Bar charts compare the top-performing genres.
+Release Trend Analysis: Line charts display the yearly growth in content releases.
+Rating Breakdown: Horizontal bar charts illustrate the number of titles per rating category.
 
 5. Tech Stack
-Power BI- Dashboard creation and data visualization
-Excel / CSV	- Data cleaning and preprocessing
-Kaggle Dataset -	Source of raw Amazon Prime titles data
-DAX / Power Query	- Data modeling and transformations
+Power BI: Dashboard creation and data visualization.
+Excel / CSV: Data cleaning and preprocessing.
+DAX / Power Query: Data modeling and transformation.
+Kaggle Dataset: Source of raw Amazon Prime titles data.
 
-6.Data Source
-📊 Dataset Name: Amazon Prime titles
-📥 Source: Kaggle - amazon_prime_titles.csv
+6. Data Source
+Dataset Name: Amazon Prime Titles
+Source: Kaggle – amazon_prime_titles.csv
 
 7. How to Use
-Download the .pbix file from the repository.
-Open it in Power BI Desktop.
-Explore the interactive filters and visuals.
+Download the .pbix file from this repository.
+Open it using Power BI Desktop.
+Use the interactive filters and visuals to explore insights.
 
 8. Conclusion
-This dashboard offers a data-driven view of Amazon Prime’s entertainment landscape — useful for analysts, content strategists, and enthusiasts to identify content trends and streaming insights effectively.
+This Power BI dashboard offers a data-driven perspective on Amazon Prime Video’s entertainment catalog.
+It serves as a valuable analytical tool for data analysts, content strategists, and media enthusiasts to explore streaming trends, genre preferences, and content evolution effectively.
 
 9. Screenshot/Demos
 https://github.com/Ayushchaubey-14/AmazonPrime_Performance_Insights/blob/main/Amazon%20Prime%20Dasboard.png.png
